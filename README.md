@@ -1,4 +1,4 @@
-# System Design Interview
+# System Design
 
 
 ## SLA
